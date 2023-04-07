@@ -1,5 +1,7 @@
 # Bookid-project
-Bookid website project ( practice )
+Bookid static website, created using html, css & pure javascript. (webiste is coded in Serbian language)
+For mobile devices (<450px), there's a section you can enter through dropdown menu, 
+a demo version of mobile app, which i imagined and wanted to made like a bonus.
 
 ## Running instructions
 
